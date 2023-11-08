@@ -14,7 +14,7 @@ import org.slf4j.Logger;
 @Mod(Test1.MOD_ID)
 public class Test1
 {
-    // Can Github sync please?
+    // Can Github sync please? I did the thing now.
     // Define mod id in a common place for everything to reference
     public static final String MOD_ID = "test1";
     // Directly reference a slf4j logger
